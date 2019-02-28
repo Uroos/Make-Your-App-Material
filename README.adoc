@@ -1,1 +1,0 @@
-This app implements the concepts of material design such as surfaces, margins, transitions, motions and colors.
